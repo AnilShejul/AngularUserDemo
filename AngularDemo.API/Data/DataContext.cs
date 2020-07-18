@@ -1,7 +1,7 @@
-using AngularDemo.API.Properties.Models;
+using AngularDemo.API.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace AngularDemo.API.Controllers.Data
+namespace AngularDemo.API.Data
 {
     public class DataContext:DbContext
     {
